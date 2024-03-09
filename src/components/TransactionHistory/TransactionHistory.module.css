@@ -1,0 +1,21 @@
+.transactionTable {
+  margin-top: 10px;
+  width: 100%;
+  border: 1px solid black;
+}
+.transactionHeader {
+  color: white;
+  background-color: rgb(32, 30, 30);
+}
+
+table {
+  padding-top: 10px;
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  text-align: center;
+  border: 1px solid black; /* Визначте границі вашої таблиці */
+  padding: 8px; /* Додайте відступ для кращого вигляду */
+}
