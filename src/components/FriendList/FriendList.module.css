@@ -1,0 +1,26 @@
+.friendBox {
+  padding-top: 10px;
+}
+.friendsList {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  padding: 0;
+  width: 100%;
+}
+
+.friendsList li {
+  padding: 5px;
+  border: 1.5px solid black;
+  border-radius: 5px;
+  text-align: center;
+  gap: 5px;
+  width: auto;
+}
+
+.friendsList li {
+  margin-right: 10px;
+}
+.friendsList li:first-child {
+  margin-left: 10px;
+}

@@ -31,7 +31,7 @@
 }
 .userStats {
   display: flex;
-  border-top: 1px solid gray;
+  border-top: 2px solid gray;
 }
 .userStats li {
   padding: 10px;
@@ -42,7 +42,7 @@
   gap: 5px;
 }
 .userStats li:not(:last-child) {
-  border-right: 1px solid gray;
+  border-right: 2px solid gray;
 }
 .userStats li :last-child {
   font-weight: 700;
