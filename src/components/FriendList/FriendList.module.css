@@ -10,7 +10,7 @@
 }
 
 .friendsList li {
-  padding: 5px;
+  padding: 1px;
   border: 1.5px solid black;
   border-radius: 5px;
   text-align: center;
@@ -19,5 +19,5 @@
 }
 
 .friendsList li {
-  margin-right: 10px;
+  /* margin-right: 10px; */
 }
