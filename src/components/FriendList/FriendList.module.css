@@ -21,6 +21,3 @@
 .friendsList li {
   margin-right: 10px;
 }
-.friendsList li:first-child {
-  margin-left: 10px;
-}
